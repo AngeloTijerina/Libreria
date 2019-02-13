@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1527301006 source:c:\users\red04\desktop\act3\src\libro.cpp
+	"Libro.h"
+	<iostream>
+	<Lista.h>
+
+1527299522 c:\users\red04\desktop\act3\include\libro.h
+	<string>
+
+1527299597 c:\users\red04\desktop\act3\include\lista.h
+	<Libro.h>
+
+1527299657 source:c:\users\red04\desktop\act3\src\lista.cpp
+	"Lista.h"
+	<Libro.h>
+	<iostream>
+	<windows.h>
+
+1527299235 source:c:\users\red04\desktop\act3\src\menu.cpp
+	"Menu.h"
+	"iostream"
+	<stdio.h>
+
+1527299235 c:\users\red04\desktop\act3\include\menu.h
+
+1527301003 source:c:\users\red04\desktop\act3\main.cpp
+	<iostream>
+	<Libro.h>
+	<Lista.h>
+	<Menu.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+
+1527301006 source:c:\users\cvrzap\desktop\act3\src\libro.cpp
+	"Libro.h"
+	<iostream>
+	<Lista.h>
+
+1527299522 c:\users\cvrzap\desktop\act3\include\libro.h
+	<string>
+
+1527490138 c:\users\cvrzap\desktop\act3\include\lista.h
+	<Nodo.h>
+
+1527299657 source:c:\users\cvrzap\desktop\act3\src\lista.cpp
+	"Lista.h"
+	<Libro.h>
+	<iostream>
+	<windows.h>
+
+1527299235 source:c:\users\cvrzap\desktop\act3\src\menu.cpp
+	"Menu.h"
+	"iostream"
+	<stdio.h>
+
+1527299235 c:\users\cvrzap\desktop\act3\include\menu.h
+
+1527301210 source:c:\users\cvrzap\desktop\act3\main.cpp
+	<iostream>
+	<Libro.h>
+	<Lista.h>
+	<Menu.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+
+1527397820 c:\users\cvrzap\desktop\act3\include\nodo.h
+	<string>
+
